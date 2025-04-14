@@ -7,3 +7,5 @@ This is a simple Python script that converts a JSON file into an Excel `.xlsx` f
 - Python 3.x
 - pandas
 - openpyxl
+
+- Run : pip install pandas openpyxl
